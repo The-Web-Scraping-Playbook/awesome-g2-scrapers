@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 G2 OpsKit
+> Find out everything you need to know to reliably scrape G2 with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/g2)
+
+This kit provides the blueprint for G2 scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-g2-scrapers)
 - [Scrapers By Language](#g2-scrapers-by-language)
@@ -36,46 +47,45 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-g2-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [g2-scraper](https://github.com/omkarcloud/g2-scraper) ![img](https://github.com/omkarcloud.png?size=20) | typescript | ⭐ 43 | ✅ Yes | 2025-01-14 | ✅ |
-| [g2-reviews-scraper](https://github.com/crawlbase/g2-reviews-scraper) ![img](https://github.com/crawlbase.png?size=20) | javascript | ⭐ 4 | ✅ Yes | 2023-08-23 | ✅ |
-| [g2scraper](https://github.com/anusha-xox/g2scraper) ![img](https://github.com/anusha-xox.png?size=20) | python | ⭐ 3 | ✅ Yes | 2022-06-16 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [g2-scraper](https://github.com/omkarcloud/g2-scraper) ![img](https://github.com/omkarcloud.png?size=20) | typescript | ⭐ 43 | ✅ Yes | 2025-01-14 |
+| [g2-reviews-scraper](https://github.com/crawlbase/g2-reviews-scraper) ![img](https://github.com/crawlbase.png?size=20) | javascript | ⭐ 4 | ❌ No | 2023-08-23 |
+| [g2scraper](https://github.com/anusha-xox/g2scraper) ![img](https://github.com/anusha-xox.png?size=20) | python | ⭐ 3 | ❌ No | 2022-06-16 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 G2 Scrapers By Language <a id="g2-scrapers-by-language"></a>
-
-### Html
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [Advanced-G2-Scraper](https://github.com/biegehydra/Advanced-G2-Scraper) | ⭐ 2 | 2025-04-17 | — | ✅ Yes |
-
-
-### Jupyter Notebook
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [G2_scraper](https://github.com/NeoJersey/G2_scraper) | ⭐ 2 | 2021-06-30 | — | ✅ Yes |
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [g2scraper](https://github.com/anusha-xox/g2scraper) | ⭐ 3 | 2022-06-16 | immediate | ❌ No |
+| [g2-scraper](https://github.com/jacobsuh/g2-scraper) | ⭐ 3 | 2019-07-12 | immediate | ❌ No |
+| [g2_scraper](https://github.com/dorg-bgonzalez/g2_scraper) | ⭐ 3 | 2019-06-10 | immediate | ❌ No |
+| [g2_scraper](https://github.com/danydin/g2_scraper) | ⭐ 0 | 2024-08-16 | immediate | ❌ No |
+| [g2-scraper](https://github.com/fsmaestro/g2-scraper) | ⭐ 0 | 2023-06-19 | immediate | ❌ No |
 
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [g2-scraper](https://github.com/omkarcloud/g2-scraper) | ⭐ 43 | 2025-01-14 | — | ✅ Yes |
-| [g2-reviews-scraper](https://github.com/crawlbase/g2-reviews-scraper) | ⭐ 4 | 2023-08-23 | — | ✅ Yes |
-| [G2_Scraper](https://github.com/AnonymousAAArdvark/G2_Scraper) | ⭐ 3 | 2022-03-22 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [g2-scraper](https://github.com/omkarcloud/g2-scraper) | ⭐ 43 | 2025-01-14 | professional | ✅ Yes |
+| [g2-reviews-scraper](https://github.com/crawlbase/g2-reviews-scraper) | ⭐ 4 | 2023-08-23 | immediate | ❌ No |
+| [G2_Scraper](https://github.com/AnonymousAAArdvark/G2_Scraper) | ⭐ 3 | 2022-03-22 | immediate | ❌ No |
 
 
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [g2scraper](https://github.com/anusha-xox/g2scraper) | ⭐ 3 | 2022-06-16 | — | ✅ Yes |
-| [g2-scraper](https://github.com/jacobsuh/g2-scraper) | ⭐ 3 | 2019-07-12 | — | ✅ Yes |
-| [g2_scraper](https://github.com/dorg-bgonzalez/g2_scraper) | ⭐ 3 | 2019-06-10 | — | ✅ Yes |
-| [g2_scraper](https://github.com/danydin/g2_scraper) | ⭐ 0 | 2024-08-16 | — | ✅ Yes |
-| [g2-scraper](https://github.com/fsmaestro/g2-scraper) | ⭐ 0 | 2023-06-19 | — | ✅ Yes |
+### Html
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [Advanced-G2-Scraper](https://github.com/biegehydra/Advanced-G2-Scraper) | ⭐ 2 | 2025-04-17 | professional | ✅ Yes |
+
+
+### Jupyter Notebook
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [G2_scraper](https://github.com/NeoJersey/G2_scraper) | ⭐ 2 | 2021-06-30 | immediate | ❌ No |
 
 ---
 
@@ -106,7 +116,7 @@ Know a G2 scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
