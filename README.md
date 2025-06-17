@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 G2 OpsKit
-> Find out everything you need to know to reliably scrape G2 with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/g2)
+> Find out everything you need to know to reliably scrape G2 with our new tool: [Ops Kit](https://scrapeops.io/websites/g2)
 
 This kit provides the blueprint for G2 scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -104,7 +104,7 @@ This kit provides the blueprint for G2 scraping operations:
 ---
 
 ## 🧠 G2 Tutorials & How-Tos<a id="g2-tutorials"></a>
-- 📘 [How to Scrape G2 at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-g2/)
+- 📘 [How to Scrape G2 at Scale](https://scrapeops.io/websites/g2/how-to-scrape-g2)
 - 🔐 [Web Scraping G2 Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
