@@ -23,10 +23,10 @@ Perfect for:
 
 ---
 
-## 🧠 G2 OpsKit
-> Find out everything you need to know to reliably scrape G2 with our new tool: [Ops Kit](https://scrapeops.io/websites/g2)
+## 🧠 G2 Website Scraping Analyzer
+> Find out everything you need to know to reliably scrape G2 with our new tool: [Website Scraping Analyzer](https://scrapeops.io/websites/g2)
 
-This kit provides the blueprint for G2 scraping operations:
+Our Website Scraping Analyzer provides the blueprint for G2 scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
 - **Data:** Data Types, Public APIs
 - **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
@@ -130,7 +130,6 @@ All contributions welcome! We'll vet and include approved scrapers in the next u
 
 ## 🏷 Tags
 G2 scraper, web scraping, g2 API, python scraper, playwright, data scraping, anti-bot, github, open-source g2 crawler, ScrapeOps
-
 
 ---
 
